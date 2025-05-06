@@ -7,4 +7,4 @@
 # SailPoint-Highlights
 
 
-➜ Assisted in identity lifecycle management and role-based access control by integrating SailPoint for identity governance.
+➜ Assisted in identity lifecycle management and role-based access control by integrating SailPoint for streamlined identity governance.
